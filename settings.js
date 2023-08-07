@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+1 (970) 900-4234'] // owner number
-global.ownername = ["Der Dunkle Ritter"] // owner name
+global.vcardowner = ['0114518934'] // owner number
+global.ownername = ["💀⚜️†©𝗗𝗘𝗥 𝐃𝐔𝚴𝐊𝐋𝚵 ℝ𝕀𝕋𝕋𝔼ℝ®∆🔱☠"] // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,10 +47,10 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+1 (970) 900-4234']
-global.ownertag = '+1 (970) 900-4234' //your tag number
-global.botname = '🌹⃝✥⃟☺️᭄ꦿDer Dunkle Ritter😒' //ur bot name
-global.packname = "🌹⃝✥⃟☺️᭄ꦿDer Dunkle Ritter😒" // sticker packname
+global.owner = ['0114518934']
+global.ownertag = '0114518934' //your tag number
+global.botname = '💀⚜️†©𝗗𝗘𝗥 𝐃𝐔𝚴𝐊𝐋𝚵 ℝ𝕀𝕋𝕋𝔼ℝ®∆🔱☠' //ur bot name
+global.packname = "💀⚜️†©𝗗𝗘𝗥 𝐃𝐔𝚴𝐊𝐋𝚵 ℝ𝕀𝕋𝕋𝔼ℝ®∆🔱☠" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
